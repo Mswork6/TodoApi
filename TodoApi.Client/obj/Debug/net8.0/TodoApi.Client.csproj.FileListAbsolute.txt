@@ -1,0 +1,15 @@
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\bin\Debug\net8.0\TodoApi.Client.exe
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\bin\Debug\net8.0\TodoApi.Client.deps.json
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\bin\Debug\net8.0\TodoApi.Client.runtimeconfig.json
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\bin\Debug\net8.0\TodoApi.Client.dll
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\bin\Debug\net8.0\TodoApi.Client.pdb
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.AssemblyInfoInputs.cache
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.AssemblyInfo.cs
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.sourcelink.json
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.dll
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\refint\TodoApi.Client.dll
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.pdb
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\TodoApi.Client.genruntimeconfig.cache
+C:\Users\denis\RiderProjects\TodoApi\TodoApi.Client\obj\Debug\net8.0\ref\TodoApi.Client.dll
